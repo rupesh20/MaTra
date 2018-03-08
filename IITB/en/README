@@ -1,0 +1,13 @@
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+If you use this this resource, please cite the following paper:
+Anoop Kunchukuttan, Abhijit Mishra, Rajen Chatterjee, Ritesh Shah, and Pushpak Bhattacharyya. Sata-Anuvadak: Tackling Multiway Translation of Indian Languages. Proceedings of the Ninth International Conference on Language Resources and Evaluation Conference, 2014.
+
+Bibtex entry:
+@inproceedings{kunchukuttan2014SataAnuvadak,
+  title={{Sata-Anuvadak: Tackling Multiway Translation of Indian Language}},
+  author={Anoop Kunchukuttan and Abhijit Mishra and Rajen Chatterjee and Ritesh Shah and Pushpak Bhattacharyya.},
+  booktitle={Proceedings of the Ninth International Conference on Language Resources and Evaluation Conference},
+  year={2014}
+}
